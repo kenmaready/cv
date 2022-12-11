@@ -1,0 +1,18 @@
+
+
+body {font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f7ede2;}
+
+hr {
+        border-style: dotted none none;
+        border-color: lightgray;
+        border-width: 6px;
+        width: 18%;
+}
+
+h1, h4 {
+    color: dodgerblue;
+}
+    
+img { border-radius: 50%;}
+
+thead {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
